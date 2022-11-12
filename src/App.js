@@ -5,6 +5,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 function App() {
   return (
     <BrowserRouter>
+        <input type="text" placeholder="hey" />
 
       
         <Routes>
@@ -12,7 +13,7 @@ function App() {
           <Route path="/" element={<Home />} />
          
         </Routes>
-  
+<input type ='text' />
     </BrowserRouter>
   );
 }
