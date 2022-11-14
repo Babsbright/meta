@@ -17,19 +17,19 @@ export const pictures = [
    },
     {
         "id": 5,
-         "picture": require("../Images/Frame1.png"),
+         "picture": require("../Images/Frame5.png"),
    },
     {
         "id": 6,
-         "picture": require("../Images/Frame2.png"),
+         "picture": require("../Images/Frame6.png"),
    },
     {
         "id": 7,
-         "picture": require("../Images/Frame3.png"),
+         "picture": require("../Images/Frame7.png"),
    },
     {
         "id": 8,
-         "picture": require("../Images/Frame4.png"),
+         "picture": require("../Images/Frame8.png"),
    }
 
 ]
