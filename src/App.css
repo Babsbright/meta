@@ -8,3 +8,11 @@ body{
   box-sizing: border-box;
   font-family: 'Red Rose', cursive;
 }
+
+.place{
+  display:flex!important;
+
+}
+.place > div{
+  flex-wrap: wrap!important;
+}
